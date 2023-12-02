@@ -4,6 +4,7 @@ public class Ejercicio4 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+	System.out.println("Hola! Bienvenido a el programa que invierte caracteres");
 
         System.out.println("Ingrese una frase:");
         String input = scanner.nextLine();
